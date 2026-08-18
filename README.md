@@ -1,4 +1,4 @@
-# Money tracker
+# Money tracker V1
 A simple program for tracking how much money you've spent or earned. It creates a graph and saves your progress.
 
 ## How to install?
